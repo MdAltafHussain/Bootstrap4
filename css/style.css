@@ -11,7 +11,7 @@
 }
 
 .footer{
-    background-color: #e76d09;
+    background-color: #9575CD;
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -35,4 +35,9 @@ body{
 
 .navbar-dark {
      background-color: #512DA8;
+}
+
+.card-header-content{
+    background-color: #ffe600;
+    color:white;
 }
